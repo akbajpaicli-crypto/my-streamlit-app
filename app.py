@@ -10,9 +10,9 @@ from pick_nearest_speed import pick_nearest
 # st.write("Current Working Directory:", os.getcwd())
 # st.write("Files in this directory:", os.listdir('.'))
 # Set page config
-st.set_page_config(page_title="Pick Nearest Speed — Table View", layout="wide")
+st.set_page_config(page_title="Speed at any OHE Mast", layout="wide")
 
-st.title("Pick Nearest Speed — Table View")
+st.title("Speed at any OHE Mast")
 
 # --- File Upload Section ---
 col1, col2 = st.columns(2)
