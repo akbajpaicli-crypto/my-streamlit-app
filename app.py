@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 # Ensure pick_nearest_speed.py is in the same folder
-from pick_nearest_gui import pick_nearest
+from pick_nearest_speed import pick_nearest
 
 
 
