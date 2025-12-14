@@ -6,9 +6,9 @@ from pick_nearest_speed import pick_nearest
 
 
 
-st.title("Debug Mode")
-st.write("Current Working Directory:", os.getcwd())
-st.write("Files in this directory:", os.listdir('.'))
+# st.title("Debug Mode")
+# st.write("Current Working Directory:", os.getcwd())
+# st.write("Files in this directory:", os.listdir('.'))
 # Set page config
 st.set_page_config(page_title="Pick Nearest Speed — Table View", layout="wide")
 
